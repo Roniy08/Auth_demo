@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21E8FB11-E6F8-4AE4-B01A-5AFDD60D2591"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C29F898E-200B-4C79-A139-3CB529BECA4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_demo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "btnUnlocked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C29F898E-200B-4C79-A139-3CB529BECA4E - e9717b32bab653a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Auth_demo.ViewController.btnUnlocked(Any) -&gt; ()"
+                  moduleName = "Auth_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandishdave/Documents/Bandish/Auth_demo/Auth_demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "C29F898E-200B-4C79-A139-3CB529BECA4E - e9717b32bab653a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Auth_demo.ViewController.btnUnlocked(Any) -&gt; ()"
+                  moduleName = "Auth_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandishdave/Documents/Bandish/Auth_demo/Auth_demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "C29F898E-200B-4C79-A139-3CB529BECA4E - e9717b32bab7b2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Auth_demo.ViewController.btnUnlocked(Any) -&gt; ()"
+                  moduleName = "Auth_demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bandishdave/Documents/Bandish/Auth_demo/Auth_demo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
